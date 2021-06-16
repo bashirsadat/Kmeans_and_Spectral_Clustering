@@ -3,4 +3,4 @@ In this project we trying to implement k-means and spectral clustering algorithm
 
 We validate the clustering results using the following methods: 
 <br/>• Choose an external index and compare the clustering results from different clustering algorithms with an external index (the ground truth clusters are provided in the data sets). 
-• Choose an internal index and compare the clustering results.
+<br/>• Choose an internal index and compare the clustering results.
